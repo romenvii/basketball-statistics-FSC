@@ -1,0 +1,16 @@
+#: 00//Name: Akol Arop//Position: Forward//Height: 6'5//Weight: 210//Points: 447//Rebounds: 278//Games Played: 33//Assists: 28//Steals: 36//Blocks: 55//FG%: 54% 
+#: 01//Name: Dominick Denny//Position: Guard//Height: 5'11//Weight: 165//Points: 395//Rebounds: 122//Games Played: 33//Assists: 198//Steals: 61//Blocks: 6//FG%: 41%
+#: 02//Name: Jadin Booth//Position: Guard//Height: 6'2//Weight: 185//Points: 68//Rebounds: 9//Games Played: 2//Assists: 10//Steals: 3//Blocks: 1//FG%: 54%
+#: 03//Name: Erickson Bans//Position: Guard//Height: 5'11//Weight: 175//Points: 314//Rebounds: 99//Games Played: 30//Assists: 95//Steals: 18//Blocks: 9//FG%: 35%
+#: 04//Name: Joe Moon//Position: Guard//Height: 6'1//Weight: 180//Points: 311//Rebounds: 100//Games Played: 33//Assists: 80//Steals: 45//Blocks: 13//FG%: 45%
+#: 05//Name: Donovan Smith//Position: Guard//Height: 5'10//Weight: 165//Points: 65//Rebounds: 19//Games Played: 25//Assists: 18//Steals: 6//Blocks: 0//FG%: 32% 
+#: 10//Name: Wes Bongiorni//Position: Forward//Height: 6'6//Weight: 215//Points: 7//Rebounds: 10//Games Played: 7//Assists: 4//Steals: 1//Blocks: 0//FG%: 20%
+#: 11//Name: Noah Louis//Position: Forward//Height: 6'8//Weight: 210//Points: 51//Rebounds: 23//Games Played: 14//Assists: 4//Steals: 1//Blocks: 5//FG%: 58%
+#: 12//Name: Riley Buccino//Position: Guard//Height: 6'2//Weight: 180//Points: 17//Rebounds: 9//Games Played: 14//Assists: 5//Steals: 2//Blocks: 0//FG%: 23%
+#: 13//Name: Luke Reilly//Position: Guard//Height: 6'1//Weight: 180//Points: 3//Rebounds: 1//Games Played: 11//Assists: 1//Steals: 1//Blocks: 0//FG%: 11%
+#: 22//Name: Connor Raines//Position: Guard//Height: 6'5//Weight: 190//Points: 113//Rebounds: 56//Games Played: 31//Assists: 12//Steals: 14//Blocks: 3//FG%: 32%
+#: 23//Name: Conor O'Connell//Position: Guard//Height: 6'3//Weight: 190//Points: 4//Rebounds: 2//Games Played: 2//Assists: 0//Steals: 0//Blocks: 0//FG%: 40%
+#: 25//Name: Alex Steen//Position: Forward//Height: 6'8//Weight: 215//Points: 398//Rebounds: 255//Games Played: 24//Assists: 15//Steals: 21//Blocks: 86//FG%: 58%
+#: 33//Name: Sam Walters//Position: Guard//Height: 6'3//Weight: 190//Points: 11//Rebounds: 15//Games Played: 13//Assists: 3//Steals: 2//Blocks: 0//FG%: 20%
+#: 35//Name: Trey Jones//Position: Forward//Height: 6'10//Weight: 235//Points: 78//Rebounds: 1.8//Games Played: 32//Assists: 7//Steals: 14//Blocks: 16//FG%: 59%
+#: 44//Name: Luke Anderson//Position: Forward//Height: 6'7//Weight: 225//Points: 652//Rebounds: 264//Games Played: 33//Assists: 71//Steals: 32//Blocks: 28//FG%: 45%
